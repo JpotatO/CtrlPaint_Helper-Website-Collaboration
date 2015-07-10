@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+CHANGES_TODO.md
+=======
 #################
 ## JpotatO - Unused files and types
 #################
@@ -220,3 +223,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+>>>>>>> parent of fd7af05... Deleted content to re-merge correctly
