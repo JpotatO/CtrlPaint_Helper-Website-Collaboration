@@ -1,18 +1,27 @@
 ### <u>Changes:</u>
 
+<strong>2015.07.11:</strong>
+
++ Finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md» need to be checked.
+
++ Edited old entry of this file to match paths.
+
++ Resolved a «Merge Conflict» and erased all data of «Master» with the Merge of «JpotatO» Branch.
+  + Repaired some issues in the files too, like the «HEAD» "markers" inscripted by the «Git Shell Console».
+<p align="center">------------------------------------------------------------------------------------------------------</p>
 <strong>2015.07.09:</strong>
 
 + Added «Generic content» to all the .md files related to the videos.
 
-+ Added «2.Video Content» and «3.Homework» (when available) to :
-  + «01) Digital Painting 101 > ALL FILES .md»
-  + «02) Traditional Drawing > ALL FILES .md»
++ Added content in the sections «2.Video Content» and «3.Homework» (when available) to :
+  + «English (Original)/Video Guides/01) Digital Painting 101/ ALL FILES .md»
+  + «English (Original)/Video Guides/02) Traditional Drawing/ ALL FILES .md»
 
-+ Unfinished and released subtitles for «02) Traditional Drawing > 02.unplugged Pencils and Erasers.md»
++ Unfinished and released subtitles of «02) Traditional Drawing > 02.unplugged Pencils and Erasers.md», will be updated when content of «English (Original)/Video Guides/01) Digital Painting 101» is finished (only subtitles last).
 
-+ Finished and uploaded subtitles for «1.Video Library - Overview.md»
-
-+ Finished creating and uploaded subtitles for the «1) Digital Painting 101 > 1_Intro 1of5.md»
++ Finished and uploaded subtitles, need to be checked:
+  + «English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md»
+  + «English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md»
 <hr/>
 ### <u>To-do:</u>
 
@@ -29,6 +38,7 @@
 + <strong>Need verifications for Transcripted & Subtitled entries:</strong>
   + English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md
   + English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md
+  + English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md
   + English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md
 
 + <strong>Need to complete the Transcription and/or Subtitles for:</strong>
