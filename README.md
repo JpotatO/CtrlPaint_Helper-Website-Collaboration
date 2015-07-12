@@ -2,7 +2,7 @@
 Repository used to translate the <a href="http://ctrlpaint.com">CtrlPaint website</a>, the <a href="http://ctrlpaint.com/library">Videos guides</a> and the TL2D's Helper Website.
 <hr/>
 <h3><u>About:</u></h3>
-At first I wanted to use <strong><a href="http//penflip.com">Penflip</a> to manage and collaborate on the translations</strong> of all the existing text on the <strong>TeamL2D's helper website</strong>, for the <strong>Videos subtitles</strong> and for the <strong>original content that Matt Kohr write</strong>.
+At first I wanted to use <strong><a href="http//penflip.com">Penflip</a> to manage and collaborate on the translations</strong> of all the existing text on the <strong>TeamL2D's helper website</strong>, for the <strong>Videos subtitles</strong> and for the <strong>original content that Matt Kohr write I need to add that I have his approval to make the transcriptions, the subtitles ans translations, but I need to see with him how to share videos from this big work (surely on youtube, in multiple playlists based on original "Chapters")</strong>.
 
 Penflip is a <strong>platform similar to GitHub</strong> oriented for Writers, there is a main Content (called <strong>Master</strong>) and users create copies (called <strong>Branches</strong>) enabling them to modify the content without deleting anything of the main content, and we can manage the Branches when we receive new <strong>Submissions</strong> from users.
 
