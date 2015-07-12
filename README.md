@@ -14,25 +14,23 @@ Then if you want to communicate with us or other users easily and <strong>have q
 <hr/>
 <h3><u>Penflip Directories Structure:</u></h3>
 <ul><li><strong><u>Localized language:</u></strong><br/>
-  Contain all files of a defined language (ie: English folder will contain the Text content from the homepage, the video gallery--> Video Name--> Subtitles and texts, etc…)
-  The users need to duplicate this Parent folder, rename it in the selected language (ie: if the user want to translate from English to German, duplicate the English translation and rename the folder "German") [!] Need to use GitHub desktop app for more flexibility, or let admins do it.</li>
+  Contain all files of a defined language (ie: English folder will contain the Text content from the homepage, the video gallery--> Video Name--> Subtitles and texts, etc…)</br>
+  The users need to duplicate this Parent folder, rename it in the selected language (ie: if the user want to translate from English to German, duplicate the English translation and rename the folder "German")</br>
+  [!] Need to use GitHub desktop app for more flexibility, or let admins do it.</li></br>
 <ul><li><strong><u>Video «Gallery»:</u></strong><br/>
 It's the pages displaying original video description and information, more importantly the Homework and Details.
-Here's how we manage the video contents:</li>
+Here's how we manage the video contents:</li></br>
 <ul><li><strong><u>Video Category:</u></strong><br/>
-Name of the category from the CtrlPaint Library (ie: Digital Painting 101).</li>
+Name of the category from the CtrlPaint Library (ie: Digital Painting 101).</li></br>
 <ul><li><strong><u>Video Name:</u></strong><br/>
-The actual name of the video (ie: Digital painting 101 - Intro (1 of 5)).</li>
+The actual name of the video (ie: Digital painting 101 - Intro (1 of 5)).</li></br>
 <ul><li><strong><u>Subtitles:</u></strong><br/>
-All the text extracted from the original videos in subtitles file format (we use multi-software subtitles integration, like *.txt that is the most basic).</li>
+All the text extracted from the original videos in subtitles file format (we use multi-software subtitles integration, like *.txt that is the most basic).</li></br>
 <li><strong><u>Texts:</u></strong><br/>
-The video description, informations, guides and Homework.</li></ul></ul></ul>
+The video description, informations, guides and Homework.</li></ul></ul></ul></br>
 <li><strong><u>Homepage:</u></strong><br/>
 All text content displayed on the Home page (except embeding contents).<br/>
 <li><strong><u>About:</u></strong><br/>
 Display informations on <strong>Ctrl+Paint</strong> and <strong>Matt KOHR</strong>, the <strong>TeamL2D&Company</strong> and <strong>Jordan GROSS (JpotatO)</strong>, the usage of the site (and legal but in English in this case).</li>
 <li><strong><u>[…]:</u></strong><br/>
 […]</li></ul>
-
- [ ] MarkDown test, checkbox 1
- [X] Mardown test, Ceckbox 2
