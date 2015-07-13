@@ -3,7 +3,8 @@
 <strong>2015.07.13:</strong>
 
 + Finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md» need to be checked.
-+ Half-finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md» and already released.
++ Finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md» need to be checked.
++ Finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md» need to be checked. (total time of new worksheet: placing the subtitles marks: 10m 49sec, writing the speech in marks: 56m 30sec, total: 1h 7m 26sec for a 6m 6sec video)
 <p align="center">------------------------------------------------------------------------------------------------------</p>
 <strong>2015.07.11:</strong>
 
