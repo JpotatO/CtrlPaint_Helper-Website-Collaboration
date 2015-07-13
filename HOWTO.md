@@ -6,7 +6,7 @@ The main goal of this website is to help «students» following the «Ctrl+Paint
 
 <strong>Our main objective is:</strong>
 
-<ol><li>All users need to comprehend the subjects, in this case we need a multi-language system for both our «Website-Helper» and for the Original Video Guides.<li><br/>
+<ol><li>All users need to comprehend the subjects, in this case we need a multi-language system for both our «Website-Helper» and for the Original Video Guides.</li><br/>
 <li>The users need to have more interest, more fun, and more help.</li></ol>
 
 <h5>WE NEED YOUR HELP:</h5>
