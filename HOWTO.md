@@ -51,7 +51,7 @@ Then if you want to create a new Translation of the existing files:
 
 <li>Now you can edit any of the files (don't rename any other folders) contained in this "Translation Root" folder.</li>
 
-<li>When you finished use GitHub desktop to Submit a new commit to your Branche.</li>
+<li>When you finished use GitHub desktop to Submit a new commit to your Branch.</li>
 
 <li>When you have worked a lot, and created things that don't exist in the Master Repository, you can submit a "Pull Request" to Master, we will examine it and see the changes, if all is good we update the Master with your content!</li></ol>
 
@@ -64,22 +64,23 @@ At the moment we use «Subtitle Edit» by [Nikse.dk](http://www.nikse.dk), you c
 
 The best thing about this software is that we have full control over the start and end time (like in AHD Subtitle Maker pro but easier), for a perfect control of the times you need to use the «WaveForm window», but to generate a spectrum you need to have VLC 1.1.* or later installed, then go to [videolan.org](http://videolan.org) and download the last VLC Media Player release, then install it.
 
-Another info on the Waveform: Normaly we can see the classic Wave form, but in the parameters of the program you can show a "Real Spectrum" (like we can see in FL Studio for example (I don't know many that have this spectrum feature)), it's more accurate that the simple Waveform.
+Another info on the Waveform: Normaly we can see the classic Wave form, but in the parameters of the program you can show a "Real Spectrum" (like we can see in FL Studio for example (I don't know many that have this spectrum feature)), it's more accurate than the simple Waveform.
 
-<blockquote>Think to define the best keyboard Shortcuts for you to work efficiently, for example I use:
+<blockquote>Think to define the best keyboard Shortcuts for you to work efficiently, for example I use:<br/><br/>
 
-CTRL+ALT+P (or ALT Gr+P), or SPACEBAR: to Play/Pause the playback.
-CTRL+ALT+Left/Right (or ALT Gr.+Left/Right): To move current position by -500ms/+500ms.
+CTRL+ALT+P (or ALT Gr+P), or SPACEBAR: to Play/Pause the playback.<br/>
+CTRL+ALT+Left/Right (or ALT Gr.+Left/Right): To move current position by -500ms/+500ms.<br/>
 CTRL+ALT+Inser. (or ALT Gr.+Inser.): To add a new Subtitle at the current time position.</blockquote>
 
 <h5><strong>Here's how I work to make the Transcription:</strong></h5>
 
 <ol><li>I use the Waveform to visualy see the speech passages, I create Subtitles at their positions while trying to not have a too long duration (then I search the "Dead Time" parts to set the end time), and I do this for the complete video.</li><br/>
 <li>I listen only to the passages that I've marked as subtitles, is more efficient to select the "Next Subtitle" than navigating with the control bar, then I write what I hear in the subtitle text box.<br/>
-*[!] When I can't seem to understand a word or passage after some try, I use "!???!" to define one word, if I can't understand a passage I use a thing like "!??? ??? ???!", each "???" represent a word, if I don't know how many words are missed I just use the same as unique word "!???!".*</li><br/>
+<em>[!] When I can't seem to understand a word or passage after some try, I use "!???!" to define one word, if I can't understand a passage I use a thing like "!??? ??? ???!", each "???" represent a word, if I don't know how many words are missed I just use the same as unique word "!???!".</em></li><br/>
 <li>When I finish to write all sentences, I play the video another time in Subtitle Edit, I read the subtitles while listening, and when I see that I missheard a word I make changes imediately, in normal time I replay 2 times or more to be sure that I've used the maximum of my understanding.</li></ol>
 
-*Manual Transcription is a Hard work, and long too, but for now we don't have a perfect (and free) way of doing this programmaticaly.
+[!]Manual Transcription is a Hard work, and long too, but for now we don't have a perfect (and free) way of doing this programmaticaly.<br/>
+Then organize your worksheet, or use my method described above and adapt it if needed, your goal is to be fast and efficient, without making a fully messy work at the end. : )
 <hr/>
 <h4>Creating the Subtitles:</h4>
 
