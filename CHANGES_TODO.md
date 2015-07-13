@@ -2,17 +2,17 @@
 
 <strong>2015.07.13:</strong>
 
-+ Finished Subtitles for Â«English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.mdÂ» need to be checked.
-+ Half-finished Subtitles for Â«English (Original)/Video Guides/01) Digital Painting 101/04.Layers.mdÂ» but not already released.
++ Finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md» need to be checked.
++ Half-finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md» and already released.
 <p align="center">------------------------------------------------------------------------------------------------------</p>
 <strong>2015.07.11:</strong>
 
-+ Finished Subtitles for Â«English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.mdÂ» need to be checked.
++ Finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md» need to be checked.
 
 + Edited old entry of this file to match paths.
 
-+ Resolved a Â«Merge ConflictÂ» and erased all data of Â«MasterÂ» with the Merge of Â«JpotatOÂ» Branch.
-  + Repaired some issues in the files too, like the Â«HEADÂ» "markers" inscripted by the Â«Git Shell ConsoleÂ».
++ Resolved a «Merge Conflict» and erased all data of Â«MasterÂ» with the Merge of «JpotatO» Branch.
+  + Repaired some issues in the files too, like the Â«HEADÂ» "markers" inscripted by the «Git Shell Console».
 <p align="center">------------------------------------------------------------------------------------------------------</p>
 <strong>2015.07.09:</strong>
 
@@ -50,10 +50,8 @@
   + English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md
 
 
-<<<<<<< HEAD
 + [!] Need to add Legal informations, and copyright for all the CtrlPaint products (the Free Library Videos, and all content "extracted and translated" from any CtrlPaint content).
 
-<blockquote>Making transcripted content is a long work (more harder for non-native english in this case), same with subtitles, personaly it take me 1 hour for a 9 minutes video to transcript, and 2 hours to make the subtitles… need to find a way to modify easily the exported file from TranscriberAG and import it in AHD Subtitle Maker Pro</blockquote>
-=======
-<blockquote>Before starting to work, read Â«The file concerning collaborators attributions (not created at the moment)Â», to know what file you can edit.</blockquote>
->>>>>>> origin/JpotatO
+
+<blockquote>Before starting to work, read «The file concerning collaborators attributions (not created at the moment)Â», to know what file you can edit.</blockquote>
+
