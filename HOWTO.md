@@ -84,5 +84,9 @@ Then organize your worksheet, or use my method described above and adapt it if n
 <hr/>
 <h4>Creating the Subtitles:</h4>
 
-Now that we use Subtitle Edit, just creating the transcription correctly - Setting the Start and End times correctly - have created the subtitles, then no more work to do !
+Now that we use Subtitle Edit, just creating the transcription correctly - Setting the Start and End times correctly - have created the subtitles, then no more work to do !<br/><br/>
 Just saving the subtitles to a .srt format (Sub Rip, it's the default format of the software too), and then copy the content of the file to the Github file related to the video that you've worked on, in the Subtitles section (starting and ending with "```").
+
+<strong>Another last minute Info:</strong><br/><br/>
+I think to create a special folder in each Videos categories folders (ie: 01) Digital Painting 101), they will contain the *.srt subtitles files, it can be much simpler than copy-paste each time the content of theses files…<br/><br/>
+But I wanted to have One File for One Lesson… well we'll see on it, just keep your .srt for now !
