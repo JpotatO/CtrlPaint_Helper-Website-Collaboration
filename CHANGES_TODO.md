@@ -45,4 +45,6 @@
   + English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md
 
 
++ [!] Need to add Legal informations, and copyright for all the CtrlPaint products (the Free Library Videos, and all content "extracted and translated" from any CtrlPaint content).
+
 <blockquote>Making transcripted content is a long work (more harder for non-native english in this case), same with subtitles, personaly it take me 1 hour for a 9 minutes video to transcript, and 2 hours to make the subtitles… need to find a way to modify easily the exported file from TranscriberAG and import it in AHD Subtitle Maker Pro</blockquote>

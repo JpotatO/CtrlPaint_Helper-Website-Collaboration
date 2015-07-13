@@ -1,6 +1,9 @@
 <h2>CtrlPaint_Helper-Website-Collaboration</h2>
 Repository used to translate the <a href="http://ctrlpaint.com">CtrlPaint website</a>, the <a href="http://ctrlpaint.com/library">Videos guides</a> and the TL2D's Helper Website.
 <hr/>
+<h3>Before reading anything more:</h3>
+I've contacted the original author, <strong>Matt Kohr</strong> and get his approval do to any enhancement to his work, I forgot to make it clear but new here is it.
+
 <h3><u>About:</u></h3>
 At first I wanted to use <strong><a href="http//penflip.com">Penflip</a> to manage and collaborate on the translations</strong> of all the existing text on the <strong>TeamL2D's helper website</strong>, for the <strong>Videos subtitles</strong> and for the <strong>original content that Matt Kohr write</strong>.
 
@@ -33,6 +36,3 @@ All text content displayed on the Home page (except embeding contents).<br/>
 Display informations on <strong>Ctrl+Paint</strong> and <strong>Matt KOHR</strong>, the <strong>TeamL2D&Company</strong> and <strong>Jordan GROSS (JpotatO)</strong>, the usage of the site (and legal but in English in this case).</li>
 <li><strong><u>[…]:</u></strong><br/>
 […]</li></ul>
-
- [ ] MarkDown test, checkbox 1
- [X] Mardown test, Ceckbox 2
