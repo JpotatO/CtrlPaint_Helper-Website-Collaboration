@@ -1,27 +1,32 @@
 ### <u>Changes:</u>
 
+<strong>2015.07.13:</strong>
+
++ Finished Subtitles for Â«English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.mdÂ» need to be checked.
++ Half-finished Subtitles for Â«English (Original)/Video Guides/01) Digital Painting 101/04.Layers.mdÂ» but not already released.
+<p align="center">------------------------------------------------------------------------------------------------------</p>
 <strong>2015.07.11:</strong>
 
-+ Finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md» need to be checked.
++ Finished Subtitles for Â«English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.mdÂ» need to be checked.
 
 + Edited old entry of this file to match paths.
 
-+ Resolved a «Merge Conflict» and erased all data of «Master» with the Merge of «JpotatO» Branch.
-  + Repaired some issues in the files too, like the «HEAD» "markers" inscripted by the «Git Shell Console».
++ Resolved a Â«Merge ConflictÂ» and erased all data of Â«MasterÂ» with the Merge of Â«JpotatOÂ» Branch.
+  + Repaired some issues in the files too, like the Â«HEADÂ» "markers" inscripted by the Â«Git Shell ConsoleÂ».
 <p align="center">------------------------------------------------------------------------------------------------------</p>
 <strong>2015.07.09:</strong>
 
-+ Added «Generic content» to all the .md files related to the videos.
++ Added Â«Generic contentÂ» to all the .md files related to the videos.
 
-+ Added content in the sections «2.Video Content» and «3.Homework» (when available) to :
-  + «English (Original)/Video Guides/01) Digital Painting 101/ ALL FILES .md»
-  + «English (Original)/Video Guides/02) Traditional Drawing/ ALL FILES .md»
++ Added content in the sections Â«2.Video ContentÂ» and Â«3.HomeworkÂ» (when available) to :
+  + Â«English (Original)/Video Guides/01) Digital Painting 101/ ALL FILES .mdÂ»
+  + Â«English (Original)/Video Guides/02) Traditional Drawing/ ALL FILES .mdÂ»
 
-+ Unfinished and released subtitles of «02) Traditional Drawing > 02.unplugged Pencils and Erasers.md», will be updated when content of «English (Original)/Video Guides/01) Digital Painting 101» is finished (only subtitles last).
++ Unfinished and released subtitles of Â«02) Traditional Drawing > 02.unplugged Pencils and Erasers.mdÂ», will be updated when content of Â«English (Original)/Video Guides/01) Digital Painting 101Â» is finished (only subtitles last).
 
 + Finished and uploaded subtitles, need to be checked:
-  + «English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md»
-  + «English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md»
+  + Â«English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.mdÂ»
+  + Â«English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.mdÂ»
 <hr/>
 ### <u>To-do:</u>
 
@@ -45,6 +50,10 @@
   + English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md
 
 
+<<<<<<< HEAD
 + [!] Need to add Legal informations, and copyright for all the CtrlPaint products (the Free Library Videos, and all content "extracted and translated" from any CtrlPaint content).
 
 <blockquote>Making transcripted content is a long work (more harder for non-native english in this case), same with subtitles, personaly it take me 1 hour for a 9 minutes video to transcript, and 2 hours to make the subtitles… need to find a way to modify easily the exported file from TranscriberAG and import it in AHD Subtitle Maker Pro</blockquote>
+=======
+<blockquote>Before starting to work, read Â«The file concerning collaborators attributions (not created at the moment)Â», to know what file you can edit.</blockquote>
+>>>>>>> origin/JpotatO
