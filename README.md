@@ -17,11 +17,19 @@ At first I wanted to use <strong><a href="http//penflip.com">Penflip</a> to mana
 
 on Github, there is a main Content (called <strong>Master</strong> usualy) and users create copies (called <strong>Branches</strong>) enabling them to modify the content without deleting anything of the main content, and we can manage the Branches when we receive new <strong>Submissions</strong> from users.
 
+<<<<<<< HEAD
 You need to know that on our websites and forums, all the data and content that the users can edit <strong>need to be in English</strong>, the reason is that it's not possible to translate all things in real time, but modules like <em>Facebook Comments</em> propose an integrated translate engine.
 Then if you want to communicate with us or other users easily and <strong>have quick response</strong> rate, think to write in English, thanks for you understanding.
 
 <em style="color:red">×It's possible that our forums will integrate a localized interface, but we can't guarantee that all content by user's and moderators will be translated in your language.<br/>
 ×This file is only intended to set the structure of the entries structure.</em>
+=======
+First you need to know that on our websites and forums, all the data and content that the users can edit <strong>need to be in English</strong>, the reason is that it's not possible to translate all things in real time, but modules like <em>Facebook Comments</em> propose an integrated translate engine.
+Then if you want to communicate with us or other users easily and <strong>have quick response</strong> rate, think to write in English, thanks for you understanding.
+
+<em style="color:red">×It's possible that our forums will integrate a localized interface, but we can't guarantee that all content by user's and moderators will be translated in your language.<br/>
+×This file is only used to set the structure of the entries structure.</em>
+>>>>>>> master
 <hr/>
 <h3><u>Directories Structure:</u></h3>
 <ul><li><strong><u>Localized language:</u></strong><br/>
