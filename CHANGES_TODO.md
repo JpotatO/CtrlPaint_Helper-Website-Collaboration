@@ -74,29 +74,40 @@
 
 <blockquote>Before starting to work, read «The file concerning collaborators attributions (not created at the moment, and a little recap' menu will be added at the top of this file)», to know what file you can edit ad how.</blockquote>
 <hr/>
-<h4>Markdown Checkbox tests (many issues, need to find how to do the same with an HTML that work on github, the default <input> don't work)</h4>
-
-- [ ] NO
-- [x] YES
-- [ ] NO<br/>- [ ] NO<br/>- [x] YES
-<hr/>
 <table class="tg">
   <tr>
     <th class="tg-s6z2"><div align="center"><strong>Table tracking for «English (Original)» Translation</strong></div></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th class="tg-s6z2"><div align="center">-</div></th>
+    <th class="tg-s6z2"><div align="center">-</div></th>
+    <th class="tg-s6z2"><div align="center">-</div></th>
+    <th class="tg-s6z2"><div align="center">-</div></th>
   </tr>
+<tr>
+<td>
+<ul>
+<li><strong>ASGN</strong> = Assigned: if the entry is already in progress by an user.</li><br/>
+<li><strong>RLSE</strong> = Released: if the entry is already released.</li><br/>
+<li><strong>CHCK</strong> = Checked: if the entry is already checked using the original video.</li><br/>
+<li><strong>Time</strong> = Used only for video lessons, define total length of the video.</li>
+</ul>
+</td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
+</tr>
   <tr>
-    <th class="tg-s6z2"><strong><div align="center">Github Path/Name.md</strong></div></th>
-    <th class="tg-s6z2"><strong>Released</strong></th>
-    <th class="tg-s6z2"><strong>Checked</strong></th>
-    <th class="tg-s6z2"><strong>Time</strong></th>
+    <th class="tg-s6z2"><div align="center"><strong>Github Path/Name.md</strong></div></th>
+    <th class="tg-s6z2"><div align="center"><strong>ASGN.</strong></div></th>
+    <th class="tg-s6z2"><div align="center"><strong>RLSE.</strong></div></th>
+    <th class="tg-s6z2"><div align="center"><strong>CHCK.</strong></div></th>
+    <th class="tg-s6z2"><div align="center"><strong>Time</strong></div></th>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md">English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   
@@ -105,9 +116,11 @@
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/0) Let's Paint/01.Let's Paint A Spatula.md">English (Original)/Video Guides/0) Let's Paint/01.Let's Paint A Spatula.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -116,10 +129,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/0) Let's Paint/02.Let's Paint A Tea Kettle pt.1.md">English (Original)/Video Guides/0) Let's Paint/02.Let's Paint A Tea Kettle pt.1.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/0) Let's Paint/03.Let's Paint A Tire pt.1.md">English (Original)/Video Guides/0) Let's Paint/03.Let's Paint A Tire pt.1.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -128,10 +143,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/0) Let's Paint/04.Let's Paint A Marble pt.1.md">English (Original)/Video Guides/0) Let's Paint/04.Let's Paint A Marble pt.1.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/0) Let's Paint/05.Let's Paint Missiles pt.1.md">English (Original)/Video Guides/0) Let's Paint/05.Let's Paint Missiles pt.1.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -140,10 +157,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/0) Let's Paint/01.Let's Paint A Spatula.md">English (Original)/Video Guides/0) Let's Paint/01.Let's Paint A Spatula.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="English (Original)/Video Guides/0) Let's Paint/06.Let's Paint A Forest pt.1.md">English (Original)/Video Guides/0) Let's Paint/06.Let's Paint A Forest pt.1.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -154,35 +173,41 @@
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md">English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div</td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md">English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md">English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md">English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md">English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
 
@@ -191,27 +216,32 @@
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md">English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md">English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/03.Introducing the pencil.md">English (Original)/Video Guides/02) Traditional Drawing/03.Introducing the pencil.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/04.Visual Measuring.md">English (Original)/Video Guides/02) Traditional Drawing/04.Visual Measuring.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -220,10 +250,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/05.Visual Measuring - Proportions.md">English (Original)/Video Guides/02) Traditional Drawing/05.Visual Measuring - Proportions.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/06.Drawing Shape - Spoons.md">English (Original)/Video Guides/02) Traditional Drawing/06.Drawing Shape - Spoons.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -232,10 +264,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/07.Drawing Shape - Contour Lines.md">English (Original)/Video Guides/02) Traditional Drawing/07.Drawing Shape - Contour Lines.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/08.Drawing Shape - Linear Block-In.md">English (Original)/Video Guides/02) Traditional Drawing/08.Drawing Shape - Linear Block-In.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -244,10 +278,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/09.Crosshatching.md">English (Original)/Video Guides/02) Traditional Drawing/09.Crosshatching.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/10.Drawing Shape - Negative Space.md">English (Original)/Video Guides/02) Traditional Drawing/10.Drawing Shape - Negative Space.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -256,10 +292,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/11.Constructive Form pt.1.md">English (Original)/Video Guides/02) Traditional Drawing/11.Constructive Form pt.1.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/12.Constructive Form pt.1,5.md">English (Original)/Video Guides/02) Traditional Drawing/12.Constructive Form pt.1,5.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -268,10 +306,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/13.Constructive Form pt.2.md">English (Original)/Video Guides/02) Traditional Drawing/13.Constructive Form pt.2.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/14.Simple Still Life.md">English (Original)/Video Guides/02) Traditional Drawing/14.Simple Still Life.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -282,9 +322,11 @@
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/01.The Drawing Habit.md">English (Original)/Video Guides/02) Traditional Drawing/01.The Drawing Habit.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -293,10 +335,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/02.Sketching With Line.md">English (Original)/Video Guides/02) Traditional Drawing/02.Sketching With Line.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/03.Fluid Linework.md">English (Original)/Video Guides/02) Traditional Drawing/03.Fluid Linework.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -305,10 +349,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/04.Canvas Rotation.md">English (Original)/Video Guides/02) Traditional Drawing/04.Canvas Rotation.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/05.Line Weight.md">English (Original)/Video Guides/02) Traditional Drawing/05.Line Weight.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -317,10 +363,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/06.Simplifying Form.md»">English (Original)/Video Guides/02) Traditional Drawing/06.Simplifying Form.md»</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/07.Form, not Shape.md">English (Original)/Video Guides/02) Traditional Drawing/07.Form, not Shape.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -329,10 +377,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/08.Reintroducing the Still Life.md">English (Original)/Video Guides/02) Traditional Drawing/08.Reintroducing the Still Life.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/09.Real Object, Imaginary Details.md">English (Original)/Video Guides/02) Traditional Drawing/09.Real Object, Imaginary Details.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -341,16 +391,19 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/10.Exaggeration.md">English (Original)/Video Guides/02) Traditional Drawing/10.Exaggeration.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/11.Expressiveness in Your Drawing.md">English (Original)/Video Guides/02) Traditional Drawing/11.Expressiveness in Your Drawing.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/12.When in Doubt, Draw 100.md">English (Original)/Video Guides/02) Traditional Drawing/12.When in Doubt, Draw 100.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -361,9 +414,11 @@
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
     <td class="tg-s6z2"><div align="center">-</div></td>
+    <td class="tg-s6z2"><div align="center">-</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/01.Principles of Design - Intro.md">English (Original)/Video Guides/04) Composition Basics/01.Principles of Design - Intro.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -372,10 +427,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/02.Principles of Design - Scale and Proportion.md">English (Original)/Video Guides/04) Composition Basics/02.Principles of Design - Scale and Proportion.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/03.Principles of Design - Repetition.md">English (Original)/Video Guides/04) Composition Basics/03.Principles of Design - Repetition.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -384,10 +441,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/04.Principles of Design - Emphasis.md">English (Original)/Video Guides/04) Composition Basics/04.Principles of Design - Emphasis.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/05.Principles of Design - Balance.md">English (Original)/Video Guides/04) Composition Basics/05.Principles of Design - Balance.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -396,10 +455,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/06.Principles of Design - Movement.md">English (Original)/Video Guides/04) Composition Basics/06.Principles of Design - Movement.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/07.Principles of Design - Unity.md">English (Original)/Video Guides/04) Composition Basics/07.Principles of Design - Unity.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -408,10 +469,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/08.Visual Simplification.md">English (Original)/Video Guides/04) Composition Basics/08.Visual Simplification.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/09.Visual Tangents.md">English (Original)/Video Guides/04) Composition Basics/09.Visual Tangents.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -420,10 +483,12 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/10.Information Hierarchy.md">English (Original)/Video Guides/04) Composition Basics/10.Information Hierarchy.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/11.Compositional Framing Elements.md">English (Original)/Video Guides/04) Composition Basics/11.Compositional Framing Elements.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
@@ -432,16 +497,19 @@
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/12.Shadow Shape.md">English (Original)/Video Guides/04) Composition Basics/12.Shadow Shape.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/13.Using Text in a Composition.md">English (Original)/Video Guides/04) Composition Basics/13.Using Text in a Composition.md</a></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/04) Composition Basics/14.Critique.md">English (Original)/Video Guides/04) Composition Basics/14.Critique.md</a></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
