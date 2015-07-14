@@ -75,21 +75,22 @@
 
 |<strong>Entry Path on Github/Name.md</strong>|<strong>Released</strong>|<strong>Checked</strong>|
 |---------------------------------------------|-------------------------|------------------------|
-|English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md                     |- [x] YES  |- [ ] NO|
+|<a href="/English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md">English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md</a>|☒|☐|
 |<div align="center"><strong>0b) Let's Paint</strong></div>|
 |<div align="center"><strong>01) Digital Painting 1O1</strong></div>|
-|English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md                 |- [x] YES  |- [ ] NO|
-|English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md          |- [x] YES  |- [ ] NO|
-|English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md                 |- [x] YES  |- [ ] NO|
-|English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md                       |- [x] YES  |- [ ] NO|
-|English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md               |- [x] YES  |- [ ] NO|
+|<a href="/English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md">English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md</a>|☒|☐|
+|<a href="/English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md">English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md</a>          |☒|☐|
+|<a href="/English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md">English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md</a>|☒|☐|
+|<a href="/English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md">English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md()|☒|☐|
+|<a href="/English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md">English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md</a>|☒|☐|
 |<div align="center"><strong>02) Traditional Drawing</strong></div>|
-|English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md |- [x] YES  |- [ ] NO|
-|English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md |- [x] YES  |- [ ] NO|
-|English (Original)/Video Guides/02) Traditional Drawing/03.Introducing the pencil.md        |- [x] YES |- [ ] NO|
+|<a href="/English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md">English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md</a>|☒|☐|
+|<a href="/English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md">English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md</a>|☒|☐|
+|<a href="/English (Original)/Video Guides/02) Traditional Drawing/03.Introducing the pencil.md">English (Original)/Video Guides/02) Traditional Drawing/03.Introducing the pencil.md</a>|☒|☐|
 |<div align="center"><strong>03) Drawing 2</strong></div>|
 |<div align="center"><strong>XX) Title of the Next Category</strong></div>|
 
-+ Need to find the original scripts to create Checked or Unchecked and locked checkboxs.<br/>
-+ Use local hyperlinks, to redirect to the related file in the table, from the current Branch (ie [File.md](/File.md) on this page it will become https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/tree/JpotatO/File.md - if I remember the process from Customize.org)<br/>
-+ Add all Files and categories, when this table is fully working, create a separate file in the Translation Root Folder, theses files will be paired with each translation.
++ <s>Need to find the original scripts to create Checked or Unchecked and locked checkboxs</s>, problem, Github Editor don't support Script tags.<br/>
++ <s>Use local hyperlinks, to redirect to the related file in the table, from the current Branch (ie [File.md](/Folder/File.md) on this page it will become https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/tree/JpotatO/File.md - if I remember the process from Customize.org)</s><br/>
++ Add all Files and categories, when this table is fully working, create a separate file in the Translation Root Folder, theses files will be paired with each translation.<br/>
++ Change the display of this file, it start to be really heavy to read… .
