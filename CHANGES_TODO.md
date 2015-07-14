@@ -106,8 +106,8 @@
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md">English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
-    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   
@@ -177,37 +177,37 @@
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md">English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md</a></td>
+    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">☒</div</td>
     <td class="tg-s6z2"><div align="center">☐</div></td>
-    <td class="tg-s6z2"><div align="center">☒</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md">English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
-    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md">English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
-    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md">English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
-    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md">English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
-    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
 
@@ -221,22 +221,22 @@
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md">English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
-    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md">English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
-    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
     <td class="tg-s6z2a"><a href="/English (Original)/Video Guides/02) Traditional Drawing/03.Introducing the pencil.md">English (Original)/Video Guides/02) Traditional Drawing/03.Introducing the pencil.md</a></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
-    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">☒</div></td>
+    <td class="tg-s6z2"><div align="center">☐</div></td>
     <td class="tg-s6z2"><div align="center">00:00:00.000</div></td>
   </tr>
   <tr>
