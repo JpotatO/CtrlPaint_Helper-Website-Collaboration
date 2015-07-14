@@ -1,5 +1,11 @@
 ### <u>Changes:</u>
 
+<strong>2015.07.14:</strong>
+
++ Finished Subtitles for «English (Original)/Video Guides/\02) Traditional Drawing/02.Unplugged Pencils and Erasers.md» need to be checked.
+
++ Finished Subtitles for «English (Original)/Video Guides/\02) Traditional Drawing/03.Introducing the pencil.md» need to be checked (strongly).
+<p align="center">------------------------------------------------------------------------------------------------------</p>
 <strong>2015.07.13:</strong>
 
 + Finished Subtitles for «English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md» need to be checked.
@@ -42,14 +48,14 @@
 
 <hr/>
 + <strong>Need verifications for Transcripted & Subtitled entries:</strong>
-  + English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md
   + English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md
   + English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md
+
++ <strong>Need to complete or rebuild the Transcription and/or Subtitles, before re-checking, for:</strong>
+  + English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md
   + English (Original)/Video Guides/02) Traditional Drawing/01.Ctrl+Paint Unplugged Road-Map.md
-
-+ <strong>Need to complete the Transcription and/or Subtitles for:</strong>
-  + English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md
-
+  + English (Original)/Video Guides/\02) Traditional Drawing/02.Unplugged Pencils and Erasers.md
+  + English (Original)/Video Guides/\02) Traditional Drawing/03.Introducing the pencil.md
 
 + [!] Need to add Legal informations, and copyright for all the CtrlPaint products (the Free Library Videos, and all content "extracted and translated" from any CtrlPaint content).
 
