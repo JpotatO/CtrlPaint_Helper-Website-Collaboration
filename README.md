@@ -2,6 +2,10 @@
 Repository used to translate the <a href="http://ctrlpaint.com">CtrlPaint website</a>, the <a href="http://ctrlpaint.com/library">Videos guides</a> and the TL2D's Helper Website.
 <hr/>
 <h3><u>Important Messages:</u></h3>
+2015.07.15:
+There is a bug with this file after a conflict (you can see one of them at the end of it), it will be repaired shortly.
+
+2015.07.13:
 I just tested the «Subtitle Edit» software by [Nikse.dk](http://www.nikse.dk), and it reduced my work time by more than 60% !
 Then don't follow things speaking of TranscriberAG ans AHD Subtitle Maker Pro, I will rewrite all entries concerning them.
 But think to come see the [Issues section](https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/issues) that will be used to discuss any subjects of this project.
