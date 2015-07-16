@@ -1,27 +1,31 @@
 ﻿<h2>How To - Content management and Workaround</h2>
+﻿
+﻿<em>This content is temporary, it will be updated with pictures and a little guide to know how to work easily.</em>
+﻿<hr/>
 
 <h4>Collaboration:</h4>
 
-The main goal of this website is to help «students» following the «Ctrl+Paint Free Video Library Guides» by Matt Kohr to learn easily and have fun will learning.
+The main goal of this website is to help «students» following the «Ctrl+Paint Free Video Library Guides» by Matt Kohr to learn easily and have fun while learning.
 
 <strong>Our main objective is:</strong>
 
-<ol><li>All users need to comprehend the subjects, in this case we need a multi-language system for both our «Website-Helper» and for the Original Video Guides.</li><br/>
-<li>The users need to have more interest, more fun, and more help.</li></ol>
+<ol><li>All users need to comprehend the subjects, in this case we need a multi-language system for both our «Website-Helper» and for the Original Video Guides content - The subtitles and the text lesson -.</li><br/>
+<li>The users need to have more interest, more fun, and more help, it's comparable to "gamified tasks", while keeping in mind the communication and sharing.</li></ol>
 
 <h5>WE NEED YOUR HELP:</h5>
 
-There is a very large quantity of information available, Matt Kohr created a quick and full learning course to learn drawing, painting, and digital arts.
+There is a very large quantity of information available, Matt Kohr created a quick and full learning course to learn drawing, painting, and digital arts very simply.
 
-<blockquote>At the moment we have 248 files to transcript - and translate when the original English is complete - theses files goes from a range of 5 to 10 minutes (but there is ~100 that end at ~5 minutes), you can see the list of all the videos, based on the original display structure and with their duration from the **Videos_Tree.md** file (not already created)</blockquote>
+<blockquote>At the moment we have 248 files to transcript (some are already maked) - and need to translate when the original English is complete - theses files goes from a range of 3 to 10 minutes , you can see the list of all the videos, based on the original display structure and with their duration from the **Videos_Tree.md** (this content is actually in the **HOW_TO.md**)</blockquote>
 
- <strong>- We need you for:</strong>
+ <strong>- We need you to:</strong>
 
 × Convert to text the Voice of Matt Kohr from the Free Videos Guides using Audio-Transcription.
 
 × Translate the original text content (shown below the videos), and the Speech-to-Text data (a.k.a. subtitles).
 
-× Share our website and [Ctrl+Paint](http://ctrlpaint.com) to help more "eventual" artists to progress, and construct a better community. We will need administrators, Moderators and theses kind of people that can easily work on online projects, and communicate.
+× Share our website and [Ctrl+Paint](http://ctrlpaint.com) to help more "eventual" artists progress, and construct a better community.
+We will need administrators, Moderators and theses kind of people that can easily work on online projects, and communicate.
 
 × Web Developers and Designers can help us create a multi-lang content, the membership and point system,  the Homework system, the forums and other important things.
 <hr/>
