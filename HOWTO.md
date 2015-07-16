@@ -62,6 +62,8 @@ Then if you want to create a new Translation of the existing files:
 <hr/>
 <h4>Working with Audio Transcription and Subtitles:</h4>
 
+<em>This content will be remaked in a more clear display,add pictures to illustrate the work phases, and a little help to install the free software & usage.</em>
+
 Before starting to translate anything we need to «Convert» the voice to text, this method is called Audio-Transcription and there is some tools available.
 
 At the moment we use «Subtitle Edit» by [Nikse.dk](http://www.nikse.dk), you can download a release from their website.
@@ -94,3 +96,6 @@ Just saving the subtitles to a .srt format (Sub Rip, it's the default format of 
 <strong>Another last minute Info:</strong><br/><br/>
 I think to create a special folder in each Videos categories folders (ie: 01) Digital Painting 101), they will contain the *.srt subtitles files, it can be much simpler than copy-paste each time the content of theses files…<br/><br/>
 But I wanted to have One File for One Lesson… well we'll see on it, just keep your .srt for now !
+
+<hr/>##### This is a test to include an image on Github:
+<p align="center"><a href="http://jpotatotl2d.deviantart.com"><img src="https://photos-1.dropbox.com/t/2/AADjz9S2yg3scdJ34oj9Z2Bl7-HJn05aIi5d3fuUTuyEEw/12/222675633/jpeg/32x32/1/1437033600/0/2/2015-07-14_23-16-21.jpg/CLGFl2ogASACKAE/fqgG9LMrp5tUhN7c_4wjuqfsCNX654JiWmmxNnwEH7E?size=1024x768&size_mode=2" title="Jpotatotl2d.deviantart.com - Gallery - temporary dummy picture" width="300"/></a></p>
