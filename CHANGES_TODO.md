@@ -127,8 +127,8 @@
 <li><strong>ASGN</strong> = Assigned: if the entry is already in progress by an user.</li><br/>
 <li><strong>RLSE</strong> = Released: if the entry is already released.</li><br/>
 <li><strong>CHCK</strong> = Checked: if the entry is already checked using the original video.</li><br/>
-<li><strong>Time</strong> = Used only for video lessons, define total length of the video.</li<br/>
-<li><strong>DL</strong> = Link to the Folder or File on MediaFire.</li>
+<li><strong>Time</strong> = Used only for video lessons, define total length of the video.</li><br/>
+<li><strong>DL</strong> = Link to the Folder or File on MediaFire.<br/>The MediaFire embeded Media-Player display video up to 1080px, but the dowloaded file is a HD file of 1280×720px with HQ Audio too.</li>
 </ul>
 </td>
     <td class="assigned"><div align="center">-</div></td>
@@ -144,6 +144,23 @@
     <th class="checked"><div align="center"><strong>CHCK.</strong></div></th>
     <th class="time"><div align="center"><strong>Time</strong></div></th>
     <td class="download"><div align="center">DL</div></td>
+  </tr>
+  
+  <tr>
+    <td class="path"><div align="center"><strong>{!} Rules & Legal (WIP)</strong></div></td>
+    <td class="assigned"><div align="center">-</div></td>
+    <td class="released"><div align="center">-</div></td>
+    <td class="checked"><div align="center">-</div></td>
+    <td class="time"><div align="center">-</div></td>
+    <td class="download"><div align="center"><a href="http://www.mediafire.com/view/w1jj88dq8lapv9m/READ_BEFORE_DOWNLOAD-[Rules&Legal].txt" title="See Rules file on Mediafire"><img src="http://s26.postimage.org/qblkwxo8l/information_icon.png" width="36"/></a></div></td>
+  </tr>
+  <tr>
+    <td class="path"><div align="center"><strong>ROOT Folder on MediaFire</strong></div></td>
+    <td class="assigned"><div align="center">-</div></td>
+    <td class="released"><div align="center">-</div></td>
+    <td class="checked"><div align="center">-</div></td>
+    <td class="time"><div align="center">-</div></td>
+    <td class="download"><div align="center"><a href="https://www.mediafire.com/folder/r0lyde2lc1l18/CtrlPaint.com_Project" title="See ROOT folder on Mediafire"><img src="http://s26.postimage.org/ah6on1zhx/stat_2_icon.png" width="42"/></a></div></td>
   </tr>
   
   <tr>
