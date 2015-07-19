@@ -10,7 +10,7 @@ At the moment I uploaded the Chapters:
 and the folders contain all the videos, some that have a sub-folder named ```Subtitled``` have already their subtitles files completed partialy or entirely.  
 Anyway refer to the video list -in the **CHANGES_TODO.md** at this moment- to know what is already subtitled, what is not, and what need to be checked.  
 
->>The problem is that without a **premium account** it's not possible to download more than one file at a time - but it's possible to download them at the same time, but not in one download - then I recommend you to [create a Mediafire](http://mediafire.com "homepage: mediafire.com") account, **follow the Folder that contain the videos** and use **MediaFire desktop** to download (synchronize) all files of the followed folder.
+>The problem is that without a **premium account** it's not possible to download more than one file at a time - but it's possible to download them at the same time, but not in one download - then I recommend you to [create a Mediafire](http://mediafire.com "homepage: mediafire.com") account, **follow the Folder that contain the videos** and use **MediaFire desktop** to download (synchronize) all files of the followed folder.
 
 *But, if you need only one video you can simply download and start working with it, after checking the CHANGES_TODO.md file.*  
 
