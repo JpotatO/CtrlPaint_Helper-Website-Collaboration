@@ -1,7 +1,11 @@
-<table class="QuickMenu" width="200">
-  <th>
+<table class="QuickMenu" width="150" id="Top">
+  <tr>
+    <th><strong>Quick Navigation</strong></th>
+  </tr>
+  <tr>
+    <td class="tgs6z2a">
     <ul>
-	<li></li><a href="#ChangeLog">Changes Log</a></li>
+	<li><a href="#ChangeLog">Changes Log</a></li>
     <li><a href="#todolist">To-do list</a></li>
     <li><a href="#videotable">Video & Files table</a></li>
       <ul>
@@ -14,10 +18,12 @@
          <li><a href="#ReferenceMaterials">05) Using Reference Materials</a></li>
          <li><a href="#Anatomy">06) Anatomy</a></li>
          <li><a href="#Perspective">07) Perspective</a></li>
-         <li></li><a href="#BrushTool">08) The Brush Tool</a></li>
+         <li><a href="#BrushTool">08) The Brush Tool</a></li>
+         <li><a href="#…">…</a></li>
 	  </ul>
 	</ul>
-  </th>
+	</td>
+  </tr>
 </table>
 
 <table class="tg">
@@ -32,6 +38,7 @@
 <ul><li>Updated the <a href="/CHANGES_TODO.md">CHANGES_TODO.md</a>, and <a href="/README.md">README.md</a>, added hyperlinks and content.</li><br/>
 <ul><li>Updated the Video List Table of <a href="/CHANGES_TODO.md">CHANGES_TODO.md</a>, added links to download the Videos <code>*.MP4</code>, links for folders Categories or direct to files (can be watched online), and finished the list with all available downloads.</li><br/>
 <li>Added an Issue to notify of the Upload of <code>*.MP4</code> Video Files and <code>*.SRT</code> Subtitles on MediaFire.com</li><br/>
+</td>
   </tr>
   <tr>
     <th class="tgs6z2a"><strong>2015.07.15:</strong></th>
@@ -40,6 +47,7 @@
     <td class="tgs6z2a">
 <ul><li>Added identifiers to tables - only visible in HTML - and re-organized entries</li><br/>
 <li>Added video duration for each entries, repaired an error at "03) Drawing 2" entries</li><br/>
+</td>
   </tr>
   <tr>
     <th class="tgs6z2a"><strong>2015.07.14:</strong></th>
@@ -1090,3 +1098,5 @@
 + Add all Files and categories, when this table is fully working, create a separate file in the Translation Root Folder, theses files will be paired with each translation.<br/>
 + <s>Change the display of this file, it start to be really heavy to read… .</s>
 + if Possible find a way to integrate Spoilers, but it will need an external CSS, github can't read scripts it seems, but CSS work (a little) with Markup.
+<br/>
+<a href="#Top">Return to top</a>
