@@ -8,11 +8,11 @@ The Video files in a ```*.MP4``` format are now available on MediaFire, and the 
 At the moment I uploaded the Chapters:  
 ```0a_Library Overview, 0b_Let's Paint, 1_Digital Painting 1O1, 2_Traditional Drawing, 3_Drawing 2, 4_Composition Basics, 5_Using Reference Materials, 6_Anatomy, 7_Perspective, 8_The Brush Tool```  
 and the folders contain all the videos, some that have a sub-folder named ```Subtitled``` have already their subtitles files completed partialy or entirely.  
-Anyway refer to the video list -in the [**CHANGES_TODO.md**](https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/blob/master/CHANGES_TODO.md) at this moment- to know what is already subtitled, what is not, and what need to be checked.  
+Anyway refer to the video list -in the [**CHANGES_TODO.md**](/CHANGES_TODO.md) at this moment- to know what is already subtitled, what is not, and what need to be checked.  
 
 >The problem is that without a **premium account** it's not possible to download more than one file at a time - but it's possible to download them at the same time, but not in one download - then I recommend you to [create a Mediafire](http://mediafire.com "homepage: mediafire.com") account, **follow the Folder that contain the videos** and use **MediaFire desktop** to download (synchronize) all files of the followed folder.
 
-*But, if you need only one video you can simply download and start working with it, after checking the [**CHANGES_TODO.md**](https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/blob/master/CHANGES_TODO.md) file.*  
+*But, if you need only one video you can simply download and start working with it, after checking the [**CHANGES_TODO.md**](/CHANGES_TODO.md) file.*  
 
 **Attention: there is a File ```*.txt``` with some rules to follow with this content, the most important part is that you don't have any rights to release theses videos, much less if the original author didn't approve.**
 <hr/>
@@ -24,9 +24,9 @@ Just tested the «Subtitle Edit» software by [Nikse.dk](http://www.nikse.dk "Ho
 Then don't follow things speaking of TranscriberAG ans AHD Subtitle Maker Pro, I will rewrite all entries concerning them.
 But think to come see the [Issues section](https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/issues "Message board of this Repository") that will be used to discuss any subjects of this project.
 
-Read the [**HOWTO.md**](https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/blob/master/HOWTO.md) to know what tools you need, and how you need to work with them, and how to work on Github, like to create new translations or just share new transcriptions/Subtitles.
+Read the [**HOWTO.md**](/HOWTO.md) to know what tools you need, and how you need to work with them, and how to work on Github, like to create new translations or just share new transcriptions/Subtitles.
 
-Read the [**CHANGES_TODO.md**](https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/blob/master/CHANGES_TODO.md) to see what is already released and what need to be done quickly, there is a list of all files to do, the last changes and other informations.
+Read the [**CHANGES_TODO.md**](/CHANGES_TODO.md) to see what is already released and what need to be done quickly, there is a list of all files to do, the last changes and other informations.
 <hr/>
 <h3><u>About:</u></h3>
 At first I wanted to use <strong><a href="http//penflip.com" title="Penflip.com">Penflip</a> to manage and collaborate on the translations</strong> of all the existing text of the <strong>TeamL2D's helper website</strong>, for the <strong>Videos subtitles</strong> and for the <strong>original content that Matt Kohr write</strong>, but it's more limited than GitHub.
