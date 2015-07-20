@@ -1,6 +1,28 @@
+<table class="QuickMenu" width="200">
+  <th>
+    <ul>
+	<li></li><a href="#ChangeLog">Changes Log</a></li>
+    <li><a href="#todolist">To-do list</a></li>
+    <li><a href="#videotable">Video & Files table</a></li>
+      <ul>
+	     <li><a href="#LibraryOverview">0a) Library Overview</a></li>
+         <li><a href="#LetsPaint">0b) Let's Paint</a></li>
+         <li><a href="#DigitalPainting1O1">01) Digital Painting 1O1</a></li>
+         <li><a href="#TraditionalDrawing">02) Traditional Drawing</a></li>
+         <li><a href="#Drawing2">03) Drawing 2</a></li>
+         <li><a href="#CompositionBasics">04) Composition Basics</a></li>
+         <li><a href="#ReferenceMaterials">05) Using Reference Materials</a></li>
+         <li><a href="#Anatomy">06) Anatomy</a></li>
+         <li><a href="#Perspective">07) Perspective</a></li>
+         <li></li><a href="#BrushTool">08) The Brush Tool</a></li>
+	  </ul>
+	</ul>
+  </th>
+</table>
+
 <table class="tg">
   <tr>
-    <th class="tgs6z2a"><strong>Changes Log (Newer to older)</strong></th>
+    <th class="tgs6z2a"><strong id="ChangeLog">Changes Log (Newer to older)</strong></th>
   </tr>
   <tr>
     <th class="tgs6z2a"><strong>2015.07.19:</strong></th>
@@ -62,11 +84,12 @@
 <ul><li>«English (Original)/Video Guides/1.CtrlPaint Video Library - Overview.md»</li><br/>
 <li>«English (Original)/Video Guides/01) Digital Painting 101/01.Introduction.md»</li></ul></ul></td>
   </tr>
+  
 </table>
 <hr/>
 <table class="tg">
   <tr>
-    <th class="tgs6z2a"><strong>To-do List</strong></th>
+    <th class="tgs6z2a"><strong id="todolist">To-do List</strong></th>
   </tr>
   <tr>
     <th class="tgs6z2a"><strong>Always Active</strong></th>
@@ -114,7 +137,7 @@
 <hr/>
 <table class="tg">
   <tr>
-    <th class="path"><div align="center"><strong>Table tracking for «English (Original)» Translation</strong></div></th>
+    <th class="path"><div align="center"><strong id="videotable">Table tracking for «English (Original)» Translation</strong></div></th>
     <th class="assigned"><div align="center">-</div></th>
     <th class="released"><div align="center">-</div></th>
     <th class="checked"><div align="center">-</div></th>
@@ -127,8 +150,8 @@
 <li><strong>ASGN</strong> = Assigned: if the entry is already in progress by an user.</li><br/>
 <li><strong>RLSE</strong> = Released: if the entry is already released.</li><br/>
 <li><strong>CHCK</strong> = Checked: if the entry is already checked using the original video.</li><br/>
-<li><strong>Time</strong> = Used only for video lessons, define total length of the video.</li><br/>
-<li><strong>DL</strong> = Link to the Folder or File on MediaFire.<br/>The MediaFire embeded Media-Player display video up to 1080px, but the dowloaded file is a HD file of 1280×720px with HQ Audio too.</li>
+<li><strong>Time</strong> = Used only for video lessons, define total length of the video.</li<br/>
+<li><strong>DL</strong> = Link to the Folder or File on MediaFire.</li>
 </ul>
 </td>
     <td class="assigned"><div align="center">-</div></td>
@@ -147,24 +170,7 @@
   </tr>
   
   <tr>
-    <td class="path"><div align="center"><strong>{!} Rules & Legal (WIP)</strong></div></td>
-    <td class="assigned"><div align="center">-</div></td>
-    <td class="released"><div align="center">-</div></td>
-    <td class="checked"><div align="center">-</div></td>
-    <td class="time"><div align="center">-</div></td>
-    <td class="download"><div align="center"><a href="http://www.mediafire.com/view/w1jj88dq8lapv9m/READ_BEFORE_DOWNLOAD-[Rules&Legal].txt" title="See Rules file on Mediafire"><img src="http://s26.postimage.org/qblkwxo8l/information_icon.png" width="36"/></a></div></td>
-  </tr>
-  <tr>
-    <td class="path"><div align="center"><strong>ROOT Folder on MediaFire</strong></div></td>
-    <td class="assigned"><div align="center">-</div></td>
-    <td class="released"><div align="center">-</div></td>
-    <td class="checked"><div align="center">-</div></td>
-    <td class="time"><div align="center">-</div></td>
-    <td class="download"><div align="center"><a href="https://www.mediafire.com/folder/r0lyde2lc1l18/CtrlPaint.com_Project" title="See ROOT folder on Mediafire"><img src="http://s26.postimage.org/ah6on1zhx/stat_2_icon.png" width="42"/></a></div></td>
-  </tr>
-  
-  <tr>
-    <td class="path"><div align="center"><strong>0a) Library Overview</strong></div></td>
+    <td class="path"><div align="center"><strong id="LibraryOverview">0a) Library Overview</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -181,7 +187,7 @@
   </tr>
   
   <tr>
-    <td class="path"><div align="center"><strong>0b) Let's Paint:</strong></div></td>
+    <td class="path"><div align="center"><strong id="LetsPaint">0b) Let's Paint:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -254,7 +260,7 @@
   </tr>
 
   <tr>
-    <td class="path"><div align="center"><strong>01) Digital Painting 1O1:</strong></div></td>
+    <td class="path"><div align="center"><strong id="DigitalPainting1O1">01) Digital Painting 1O1:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -303,7 +309,7 @@
   </tr>
 
   <tr>
-    <td class="path"><div align="center"><strong>02) Traditional Drawing:</strong></div></td>
+    <td class="path"><div align="center"><strong id="TraditionalDrawing">02) Traditional Drawing:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -424,7 +430,7 @@
   </tr>
 
   <tr>
-    <td class="path"><div align="center"><strong>03) Drawing 2:</strong></div></td>
+    <td class="path"><div align="center"><strong id="Drawing2">03) Drawing 2:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -529,7 +535,7 @@
   </tr>
 
   <tr>
-    <td class="path"><div align="center"><strong>04) Composition Basics:</strong></div></td>
+    <td class="path"><div align="center"><strong id="CompositionBasics">04) Composition Basics:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -650,7 +656,7 @@
   </tr>
 
   <tr>
-    <td class="path"><div align="center"><strong>05) Using Reference Materials:</strong></div></td>
+    <td class="path"><div align="center"><strong id="ReferenceMaterials">05) Using Reference Materials:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -747,7 +753,7 @@
   </tr>
 
   <tr>
-    <td class="path"><div align="center"><strong>06) Anatomy:</strong></div></td>
+    <td class="path"><div align="center"><strong id="Anatomy">06) Anatomy:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -804,7 +810,7 @@
   </tr>
 
   <tr>
-    <td class="path"><div align="center"><strong>07) Perspective:</strong></div></td>
+    <td class="path"><div align="center"><strong id="Perspective">07) Perspective:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -853,7 +859,7 @@
   </tr>
 
   <tr>
-    <td class="path"><div align="center"><strong>08) The Brush Tool:</strong></div></td>
+    <td class="path"><div align="center"><strong id="BrushTool">08) The Brush Tool:</strong></div></td>
     <td class="assigned"><div align="center">-</div></td>
     <td class="released"><div align="center">-</div></td>
     <td class="checked"><div align="center">-</div></td>
@@ -1083,4 +1089,4 @@
 + <s>Use local hyperlinks, to redirect to the related file in the table, from the current Branch (ie [File.md](/Folder/File.md) on this page it will become https://github.com/JpotatO/CtrlPaint_Helper-Website-Collaboration/tree/JpotatO/File.md - if I remember the process from Customize.org)</s><br/>
 + Add all Files and categories, when this table is fully working, create a separate file in the Translation Root Folder, theses files will be paired with each translation.<br/>
 + <s>Change the display of this file, it start to be really heavy to read… .</s>
-+ if Possible find a way to integrate Spoilers, but it will need an external CSS, github can't read scripts it seems, but CSS work (a little).
++ if Possible find a way to integrate Spoilers, but it will need an external CSS, github can't read scripts it seems, but CSS work (a little) with Markup.
