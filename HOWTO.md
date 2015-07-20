@@ -1,27 +1,31 @@
 ﻿<h2>How To - Content management and Workaround</h2>
+﻿
+﻿<em>This content is temporary, it will be updated with pictures and a little guide to know how to work easily.</em>
+﻿<hr/>
 
 <h4>Collaboration:</h4>
 
-The main goal of this website is to help «students» following the «Ctrl+Paint Free Video Library Guides» by Matt Kohr to learn easily and have fun will learning.
+The main goal of this website is to help «students» following the «Ctrl+Paint Free Video Library Guides» by Matt Kohr to learn easily and have fun while learning.
 
 <strong>Our main objective is:</strong>
 
-<ol><li>All users need to comprehend the subjects, in this case we need a multi-language system for both our «Website-Helper» and for the Original Video Guides.</li><br/>
-<li>The users need to have more interest, more fun, and more help.</li></ol>
+<ol><li>All users need to comprehend the subjects, in this case we need a multi-language system for both our «Website-Helper» and for the Original Video Guides content - The subtitles and the text lesson -.</li><br/>
+<li>The users need to have more interest, more fun, and more help, it's comparable to "gamified tasks", while keeping in mind the communication and sharing.</li></ol>
 
 <h5>WE NEED YOUR HELP:</h5>
 
-There is a very large quantity of information available, Matt Kohr created a quick and full learning course to learn drawing, painting, and digital arts.
+There is a very large quantity of information available, Matt Kohr created a quick and full learning course to learn drawing, painting, and digital arts very simply.
 
-<blockquote>At the moment we have 248 files to transcript - and translate when the original English is complete - theses files goes from a range of 5 to 10 minutes (but there is ~100 that end at ~5 minutes), you can see the list of all the videos, based on the original display structure and with their duration from the **Videos_Tree.md** file (not already created)</blockquote>
+<blockquote>At the moment we have 248 files to transcript (some are already maked) - and need to translate when the original English is complete - theses files goes from a range of 3 to 10 minutes , you can see the list of all the videos, based on the original display structure and with their duration from the **Videos_Tree.md** (this content is actually in the **HOW_TO.md**)</blockquote>
 
- <strong>- We need you for:</strong>
+ <strong>- We need you to:</strong>
 
 × Convert to text the Voice of Matt Kohr from the Free Videos Guides using Audio-Transcription.
 
 × Translate the original text content (shown below the videos), and the Speech-to-Text data (a.k.a. subtitles).
 
-× Share our website and [Ctrl+Paint](http://ctrlpaint.com) to help more "eventual" artists to progress, and construct a better community. We will need administrators, Moderators and theses kind of people that can easily work on online projects, and communicate.
+× Share our website and [Ctrl+Paint](http://ctrlpaint.com) to help more "eventual" artists progress, and construct a better community.
+We will need administrators, Moderators and theses kind of people that can easily work on online projects, and communicate.
 
 × Web Developers and Designers can help us create a multi-lang content, the membership and point system,  the Homework system, the forums and other important things.
 <hr/>
@@ -58,6 +62,8 @@ Then if you want to create a new Translation of the existing files:
 <hr/>
 <h4>Working with Audio Transcription and Subtitles:</h4>
 
+<em>This content will be remaked in a more clear display,add pictures to illustrate the work phases, and a little help to install the free software & usage.</em>
+
 Before starting to translate anything we need to «Convert» the voice to text, this method is called Audio-Transcription and there is some tools available.
 
 At the moment we use «Subtitle Edit» by [Nikse.dk](http://www.nikse.dk), you can download a release from their website.
@@ -90,3 +96,6 @@ Just saving the subtitles to a .srt format (Sub Rip, it's the default format of 
 <strong>Another last minute Info:</strong><br/><br/>
 I think to create a special folder in each Videos categories folders (ie: 01) Digital Painting 101), they will contain the *.srt subtitles files, it can be much simpler than copy-paste each time the content of theses files…<br/><br/>
 But I wanted to have One File for One Lesson… well we'll see on it, just keep your .srt for now !
+
+<hr/>##### This is a test to include an image on Github:
+<p align="center"><a href="http://jpotatotl2d.deviantart.com"><img src="https://photos-1.dropbox.com/t/2/AADjz9S2yg3scdJ34oj9Z2Bl7-HJn05aIi5d3fuUTuyEEw/12/222675633/jpeg/32x32/1/1437033600/0/2/2015-07-14_23-16-21.jpg/CLGFl2ogASACKAE/fqgG9LMrp5tUhN7c_4wjuqfsCNX654JiWmmxNnwEH7E?size=1024x768&size_mode=2" title="Jpotatotl2d.deviantart.com - Gallery - temporary dummy picture" width="300"/></a></p>
