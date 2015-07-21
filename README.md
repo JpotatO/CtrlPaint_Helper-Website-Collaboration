@@ -1,30 +1,23 @@
 <h2>CtrlPaint_Helper-Website-Collaboration</h2>
-<<<<<<< HEAD
+
 Repository used to translate the <a href="http://ctrlpaint.com" title="CtrlPaint.com Homepage">CtrlPaint website</a>, the <a href="http://ctrlpaint.com/library" title="CtrlPaint.com Video Library">Videos guides</a> and the [TL2D's Helper Website](/ "Sorry this website don't exist at this moment, follow this Repository to be notified when he his available").
-=======
-Repository used to translate the <a href="http://ctrlpaint.com" title="CtrlPaint.com Homepage">CtrlPaint website</a>, the <a href="http://ctrlpaint.com/library" title="CtrlPaint.com Video Library">Videos guides</a> and the TL2D's Helper Website.
->>>>>>> master
 <hr/>
 <h3><u>Important Messages:</u></h3>
+**2015.07.21**
+Working on the "Subtitle Edit" working guide for this Repository WIKI, it will be a step by step guide, referencing my last technique, some shortcuts and usefull functions to work fast.
+
 **2015.07.19:**  
 The Video files in a ```*.MP4``` format are now available on MediaFire, and the links will be integrated on this Repository, in the file that have the list of all videos.  
 
 At the moment I uploaded the Chapters:  
 ```0a_Library Overview, 0b_Let's Paint, 1_Digital Painting 1O1, 2_Traditional Drawing, 3_Drawing 2, 4_Composition Basics, 5_Using Reference Materials, 6_Anatomy, 7_Perspective, 8_The Brush Tool```  
 and the folders contain all the videos, some that have a sub-folder named ```Subtitled``` have already their subtitles files completed partialy or entirely.  
-<<<<<<< HEAD
+
 Anyway refer to the video list -in the [**CHANGES_TODO.md**](/CHANGES_TODO.md) at this moment- to know what is already subtitled, what is not, and what need to be checked.  
 
 >The problem is that without a **premium account** it's not possible to download more than one file at a time - but it's possible to download them at the same time, but not in one download - then I recommend you to [create a Mediafire](http://mediafire.com "homepage: mediafire.com") account, **follow the Folder that contain the videos** and use **MediaFire desktop** to download (synchronize) all files of the followed folder.
 
 *But, if you need only one video you can simply download and start working with it, after checking the [**CHANGES_TODO.md**](/CHANGES_TODO.md) file.*  
-=======
-Anyway refer to the video list -in the **CHANGES_TODO.md** at this moment- to know what is already subtitled, what is not, and what need to be checked.  
-
->>The problem is that without a **premium account** it's not possible to download more than one file at a time - but it's possible to download them at the same time, but not in one download - then I recommend you to [create a Mediafire](http://mediafire.com "homepage: mediafire.com") account, **follow the Folder that contain the videos** and use **MediaFire desktop** to download (synchronize) all files of the followed folder.
-
-*But, if you need only one video you can simply download and start working with it, after checking the CHANGES_TODO.md file.*  
->>>>>>> master
 
 **Attention: there is a File ```*.txt``` with some rules to follow with this content, the most important part is that you don't have any rights to release theses videos, much less if the original author didn't approve.**
 <hr/>

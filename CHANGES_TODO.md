@@ -31,6 +31,18 @@
     <th class="tgs6z2a"><strong id="ChangeLog">Changes Log (Newer to older)</strong></th>
   </tr>
   <tr>
+    <th class="tgs6z2a"><strong>2015.07.21:</strong></th>
+  </tr>
+  <tr>
+    <td class="tgs6z2a">
+<ul><li>Finished Subtitles for «English (Original)/Video Guides/02) Traditional Drawing/04.Visual Measuring.md» need to be checked (more than strongly).<br/>
+Released related content on MediaFire too (see link in the Video List Table).</li><br/>
+<li>Corrected an error on MediaFire and local storage, the "CtrlPaint" prefix, after track number, need to be "Ctrl+Paint", same for subtitles then, and now it's corrected.</li><br/>
+<li>Updated the <a href="/README.md">README.md</a> file with a message concerning the WIKI Guide for transcription with Subtitle Edit, that will be available in a couple of days.</li></ul><br/>
+</td>
+  </tr>
+  </tr>
+  <tr>
     <th class="tgs6z2a"><strong>2015.07.19:</strong></th>
   </tr>
   <tr>
@@ -206,7 +218,7 @@ Display total length of the video."><strong>Time</strong></a></div></th>
     <td class="released"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:03:24.000</div></td>
-    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/2ab935i1sh52vth/01_CtrlPaint_-_Overview.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
+    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/2ab935i1sh52vth/01_Ctrl+Paint_-_Overview.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
   </tr>
   
   <tr>
@@ -308,7 +320,7 @@ Display total length of the video."><strong>Time</strong></a></div></th>
     <td class="released"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:09:07.000</div></td>
-    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/lfl38cc8ccobfs8/01_CtrlPaint_-_Digital_Painting_101_(1_of_5)_intro.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
+    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/lfl38cc8ccobfs8/01_Ctrl+Paint_-_Digital_Painting_101_(1_of_5)_intro.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
   </tr>
   <tr>
     <td class="path"><a href="/English (Original)/Video Guides/01) Digital Painting 101/02.Brushes and Erasers.md">02.Brushes and Erasers.md</a></td>
@@ -316,7 +328,7 @@ Display total length of the video."><strong>Time</strong></a></div></th>
     <td class="released"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:08:14.000</div></td>
-    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/krrskzyep68ypan/02_CtrlPaint_-_Digital_Painting_101_(2_of_5)_Brushes_and_Erasers.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
+    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/krrskzyep68ypan/02_Ctrl+Paint_-_Digital_Painting_101_(2_of_5)_Brushes_and_Erasers.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
   </tr>
   <tr>
     <td class="path"><a href="/English (Original)/Video Guides/01) Digital Painting 101/03.Mixing Paint.md">03.Mixing Paint.md</a></td>
@@ -324,7 +336,7 @@ Display total length of the video."><strong>Time</strong></a></div></th>
     <td class="released"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:06:56.000</div></td>
-    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/ahm50tbqk31vl2h/03_CtrlPaint_-_Digital_Painting_101_(3_of_5)_Mixing_Colors.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
+    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/ahm50tbqk31vl2h/03_Ctrl+Paint_-_Digital_Painting_101_(3_of_5)_Mixing_Colors.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
   </tr>
   <tr>
     <td class="path"><a href="/English (Original)/Video Guides/01) Digital Painting 101/04.Layers.md">04.Layers.md</a></td>
@@ -332,7 +344,7 @@ Display total length of the video."><strong>Time</strong></a></div></th>
     <td class="released"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:09:14.000</div></td>
-    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/g2x72b5l307j9jg/04_CtrlPaint_-_Digital_Painting_101_(4_of_5)_Layers.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
+    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/g2x72b5l307j9jg/04_Ctrl+Paint_-_Digital_Painting_101_(4_of_5)_Layers.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
   </tr>
   <tr>
     <td class="path"><a href="/English (Original)/Video Guides/01) Digital Painting 101/05.Real-Time Demo.md">05.Real-Time Demo.md</a></td>
@@ -340,7 +352,7 @@ Display total length of the video."><strong>Time</strong></a></div></th>
     <td class="released"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:06:06.000</div></td>
-    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/kuk7sim2jlvwfze/05_CtrlPaint_-_Digital_Painting_101_(5_of_5)_Demo.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
+    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/kuk7sim2jlvwfze/05_Ctrl+Paint_-_Digital_Painting_101_(5_of_5)_Demo.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
   </tr>
 
   <tr>
@@ -363,7 +375,7 @@ Display total length of the video."><strong>Time</strong></a></div></th>
     <td class="released"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:02:48.000</div></td>
-    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/5c55rzadnfp02t9/01_CtrlPaint_-_Unplugged_Road-Map.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
+    <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/5c55rzadnfp02t9/01_Ctrl+Paint_-_Unplugged_Road-Map.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
   </tr>
   <tr>
     <td class="path"><a href="/English (Original)/Video Guides/02) Traditional Drawing/02.Unplugged Pencils and Erasers.md">02.Unplugged Pencils and Erasers.md</a></td>
@@ -384,14 +396,14 @@ Display total length of the video."><strong>Time</strong></a></div></th>
   <tr>
     <td class="path"><a href="/English (Original)/Video Guides/02) Traditional Drawing/04.Visual Measuring.md">04.Visual Measuring.md</a></td>
     <td class="assigned"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
-    <td class="released"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
+    <td class="released"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:06:01.000</div></td>
     <td class="download"><div align="center"><a href="http://www.mediafire.com/watch/uuh8pse9ogpbq6k/04_Ctrl+Paint_-_Visual_Measuring.mp4" title="View file on Mediafire"><img src="http://s26.postimage.org/4xzjs3d2t/download_4_icon.png" width="36"/></a></div></td>
   </tr>
   <tr>
     <td class="path"><a href="/English (Original)/Video Guides/02) Traditional Drawing/05.Visual Measuring - Proportions.md">05.Visual Measuring - Proportions.md</a></td>
-    <td class="assigned"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
+    <td class="assigned"><div align="center"><img src="http://s26.postimage.org/jdcvd90qd/check_2_icon.png" width="36" title="Checked"/></div></td>
     <td class="released"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="checked"><div align="center"><img src="http://s26.postimage.org/l6fs1klx1/close_2_icon.png" width="36" title="Unchecked"/></div></td>
     <td class="time"><div align="center">00:04:40.000</div></td>
