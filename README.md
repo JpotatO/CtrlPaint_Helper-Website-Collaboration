@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-<h2>CtrlPaint_Helper-Website-Collaboration</h2>
-
-Repository used to translate the <a href="http://ctrlpaint.com" title="CtrlPaint.com Homepage">CtrlPaint website</a>, the <a href="http://ctrlpaint.com/library" title="CtrlPaint.com Video Library">Videos guides</a> and the [TL2D's Helper Website](/ "Sorry this website don't exist at this moment, follow this Repository to be notified when he his available").
-=======
 <h2>CtrlPaint_Helper-Website-Collaboration </h2>
 
 Repository used to translate the <a href="http://ctrlpaint.com" title="CtrlPaint.com Homepage">CtrlPaint website</a>, the <a href="http://ctrlpaint.com/library" title="CtrlPaint.com Video Library">Videos guides</a> and the [TL2D's Helper Website](/ "Sorry this website don't exist at this moment, follow this Repository to be notified when it his available").
->>>>>>> ca3a31aca7dd7334f3d8e5c9de2697af646bfcda
 <hr/>
 <h3><u>Important Messages:</u></h3>
 **2015.07.21**
