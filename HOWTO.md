@@ -1,5 +1,7 @@
 ﻿<h2>How To - Content management and Workaround</h2>
 ﻿
+﻿Need to integrated a Quick Menu (like in Changes_Todo.md) that redirect to the WIKI paegs concerning HowTo work on Github and softwares.
+﻿
 ﻿<em>This content is temporary, it will be updated with pictures and a little guide to know how to work easily.</em>
 ﻿<hr/>
 
